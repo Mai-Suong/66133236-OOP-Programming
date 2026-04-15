@@ -1,0 +1,7 @@
+D:\ObjecOrientedProgramming\66133236-OOP-Programming\Bai1\Bai1\bin\Debug\Bai1.exe.config
+D:\ObjecOrientedProgramming\66133236-OOP-Programming\Bai1\Bai1\bin\Debug\Bai1.exe
+D:\ObjecOrientedProgramming\66133236-OOP-Programming\Bai1\Bai1\bin\Debug\Bai1.pdb
+D:\ObjecOrientedProgramming\66133236-OOP-Programming\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\ObjecOrientedProgramming\66133236-OOP-Programming\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\ObjecOrientedProgramming\66133236-OOP-Programming\Bai1\Bai1\obj\Debug\Bai1.exe
+D:\ObjecOrientedProgramming\66133236-OOP-Programming\Bai1\Bai1\obj\Debug\Bai1.pdb
